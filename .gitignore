@@ -1,0 +1,7 @@
+node_modules
+.env
+.idea/
+/ui/public
+!/ui/public/*.html
+!/ui/public/env.js
+
